@@ -1,0 +1,94 @@
+/*--HEADER--*/
+* {
+	font-family: herlvetica;
+}
+.navbar {
+	margin-bottom: 0;
+}
+.jumbotron {
+	background: #C70039;
+	color: #fff;
+	padding: 20px 0;
+	margin-bottom: 0;
+}
+header {
+	background: #C70039;
+	color: #fff;
+}
+article {
+	background: lightgrey;
+}
+.color1 {
+	background: #C70039;
+}
+.color2 {
+	background: black;
+	color: white;
+}
+.color3 {
+	background: lightpink;
+	color:white;
+}
+footer {
+	background: pink;
+	margin: 0;
+}
+img {
+	width: 50%;
+}
+source {
+	width: auto;
+}
+.anuncio1 {
+	width: auto;
+}
+.main {
+	background: lightpink;
+}
+.second {
+	background: #C70039;
+}
+th {
+	text-align: center;
+}
+td {
+	text-align: center;
+}
+h2 {
+	color: blue;
+	text-decoration: underline;
+}
+.caratula {
+	margin: auto;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+.versus {
+	margin: auto;
+	width: 20%;
+}
+.app {
+	margin: auto;
+	width: 30%;
+}
+.novedad {
+	margin: auto;
+}
+.matiz {
+	margin-left: 30px;
+}
+.boton1 {
+	margin-left: 70px;
+}
+.contenedorespecial {
+	margin-top: 20px;
+}
+.trailer {
+	width: 50%;
+	margin-left: 30%;
+}
+.fa {
+	color: lightpink;
+}
